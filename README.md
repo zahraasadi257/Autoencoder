@@ -22,6 +22,25 @@ The repository also includes visualization code to display original and reconstr
 
 
 
+
+
+
+
+
 ![MNIST](https://github.com/zahraasadi257/Autoencoder/assets/57061013/ea8931fe-31fd-4f73-97a9-4faef59df8d3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
