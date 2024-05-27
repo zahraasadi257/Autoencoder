@@ -14,6 +14,14 @@ This GitHub repository features a comprehensive PyTorch implementation of two ty
 
 
 
+
+
 Both models are trained using the Mean Squared Error (MSE) loss to minimize the reconstruction error. The training loop iterates over the MNIST dataset, feeding batches of images through the autoencoders and updating the model parameters to improve reconstruction quality.
 ## Results
 The repository also includes visualization code to display original and reconstructed images side by side, allowing for a visual assessment of the autoencoder's performance. The code is well-documented, making it easy for others to understand and replicate the experiments.
+
+
+
+![MNIST](https://github.com/zahraasadi257/Autoencoder/assets/57061013/ea8931fe-31fd-4f73-97a9-4faef59df8d3)
+
+
